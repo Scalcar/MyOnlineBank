@@ -31,7 +31,7 @@ use Illuminate\Support\Facades\Route;
 // });
 
 Route::get('/', function(){
-    return view('first');
+    return view('First');
 }); 
 
 // Route::get('/dashboard', function () {
