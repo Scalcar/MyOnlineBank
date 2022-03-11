@@ -18,8 +18,7 @@
         <!-- Scripts -->
         <script src="{{ asset('js/app.js') }}" defer></script>
     </head>
-    <body class="font-sans antialiased" style="background-image: url('/images/time-is-money.jpg'); background-repeat: no-repeat;background-size: cover;">
+    <body class="font-sans antialiased h-100" style="background-image: url('/images/time-is-money.jpg'); background-repeat: no-repeat; background-size: cover;">
             {{ $slot }}
-        </main>
     </body>
 </html>

@@ -22,7 +22,7 @@
     @endif
 
     <div class="row">
-        <div class="card shadow-sm p-4 col-8 m-auto mt-5 border border-2 border-primary">          
+        <div class="card shadow-sm p-4 col-9 m-auto mt-5 border border-2 border-primary">          
             <div class="row mt-3">
                 <a href="{{ route('user.user_contacts_table') }}" class="link-primary h3 mb-4" style="width: 50px;"><i class="bi bi-arrow-clockwise"></i></a>                            
                 <div class="col-12 d-flex justify-content-between">

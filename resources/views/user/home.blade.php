@@ -119,7 +119,7 @@
             </div>
             <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
                 <div class="row">           
-                    <div class="col-6 m-auto mt-4">
+                    <div class="col-7 m-auto mt-4">
                         <div class="card border border-2 border-primary">                     
                             <div class="card-body m-auto p-4 d-flex justify-content-evenly">
                                 <div class="col-4 mt-3">
